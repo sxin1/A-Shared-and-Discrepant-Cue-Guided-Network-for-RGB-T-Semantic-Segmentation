@@ -5,8 +5,8 @@ We release the complete experimental result files, available for download via Ba
 
 | Dataset | Download Link | Extraction Code | mIou |
 | :-----: | :-----------: | :-------------: | :-------------: |
-| PST | [🔗 Download](https://pan.baidu.com/s/17lFR00DSrMLGvyX_23iW3g?pwd=uwxa) | `uwxa` | 62.4 |
-| MFNet | [🔗 Download](https://pan.baidu.com/s/1x1s1DdSIfatcmYHxydsAUw?pwd=ksgk) | `ksgk` | 88.3 |
+| PST | [🔗 Download](https://pan.baidu.com/s/17lFR00DSrMLGvyX_23iW3g?pwd=uwxa) | `uwxa` | 88.3 |
+| MFNet | [🔗 Download](https://pan.baidu.com/s/1x1s1DdSIfatcmYHxydsAUw?pwd=ksgk) | `ksgk` | 62.4 |
 
 ## 💻 Code
 The full source code of the proposed method will be updated in this repository soon. Please stay tuned.
